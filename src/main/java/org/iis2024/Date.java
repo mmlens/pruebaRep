@@ -21,7 +21,7 @@ public class Date {
   private final int year;
 
   public void methodAddedByOwner() {
-    System.out.println();
+    System.out.println("Method added by the owner");
   }
 
   /**
